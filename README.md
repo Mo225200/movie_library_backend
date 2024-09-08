@@ -43,6 +43,6 @@ This is a backend system for managing a movie library, built using **Node.js** a
 
 5. Start server
 
-    npm start
+    node index.js
 
 
