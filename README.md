@@ -41,7 +41,7 @@ This is a backend system for managing a movie library, built using **Node.js** a
     MONGODB_URI=<your-mongodb-connection-string>
     PORT=3000
 
-5. Start server using
+5. Start the server using
 
     node index.js
 
